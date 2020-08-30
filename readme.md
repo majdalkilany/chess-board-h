@@ -8,3 +8,4 @@ create chess board using jubyter lab and 2 queen as 2 defrrent color
 
 Start time: 2 pm Finish time: 4:00 pm Actual time needed to complete: 2 
 
+
